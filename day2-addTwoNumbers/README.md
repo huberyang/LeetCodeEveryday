@@ -1,2 +1,4 @@
 # LeetCodeEveryday
-Using LeetCode Everday
+
+LinkedList
+    try to using temp pointer
