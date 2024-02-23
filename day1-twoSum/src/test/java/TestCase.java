@@ -8,7 +8,7 @@ public class TestCase {
     int sums[]= new int[]{1,6,3,5};
     int result[] = MySolution.twoSum(sums,8);
     int result2[] = OptimizedSolution.twoSum(sums,8);
-    
+
     System.out.println(Arrays.toString(result));
     System.out.println(Arrays.toString(result2));
   }
