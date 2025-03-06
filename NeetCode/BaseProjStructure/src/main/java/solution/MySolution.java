@@ -2,7 +2,7 @@ package solution;
 
 import java.util.List;
 
-public class MySoulution {
+public class MySolution {
 
 
   /**
